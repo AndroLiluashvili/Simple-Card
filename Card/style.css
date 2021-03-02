@@ -1,0 +1,52 @@
+.card{
+    position: relative;
+    top: 210px;
+    left: 440px;
+}
+
+.colorbtns{
+    position: relative;
+    bottom: 12px;
+
+}
+
+.clrbutton{
+    padding: 10px 13px;
+}
+
+
+#gunmetalbtn{
+    border: 1px solid #818181;
+    background-color: #818181;
+}
+
+#silverbtn{
+    border: 1px solid #c6c6c6;
+  background-color: #c6c6c6;
+
+}
+#redbtn{
+    border: 1px solid red;
+    background-color: red;
+}
+.bi-cart{
+    position: relative;
+    top: 1px;
+}
+
+.shopNum{
+    position: relative;
+    bottom: 8px;
+    right: 14px;
+    z-index: 9999;
+    border-radius: 50%;
+    background-color: red;
+    width: 20px;
+    height: 23px;
+    color: white;
+    border: none;
+}
+
+.shopcartContainer{
+    margin-top: 8px;
+}
